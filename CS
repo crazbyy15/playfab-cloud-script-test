@@ -1,0 +1,1 @@
+POST https://63AE8.playfabapi.com/CloudScript/ExecuteFunction/makeAPICall
